@@ -13,7 +13,7 @@ const ProfileCard = ({
   }
 }) => {
   return (
-    <div className="bg-white rounded-xl p-6 py-9 shadow-sm border-2 border-blue-400 h-max w-[30%]">
+    <div className="bg-white rounded-xl p-6 py-9 shadow-sm border-2 border-blue-400 h-max md:w-[30%] w-[100%]">
         
       {/* Header */}
       <div className="flex items-center justify-between mb-4">
